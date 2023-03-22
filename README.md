@@ -1,7 +1,7 @@
-# network-slicing-algorithms
-Awesome Resources on Network Slicing Algorithms
+# network-slicing-resources
+Awesome Resources on Network Slicing
 
-This repo maintains a list of resources that utilize different methods to solve network slicing related problems. Highly cited papers are marked with ✨
+This repo maintains a list of resources related to network slicing paradigm (specifications, datasets, algorithms, etc.). Highly cited papers are marked with ✨
 
 (to be updated frequently...)
 
