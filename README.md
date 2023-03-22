@@ -7,9 +7,9 @@ This repo maintains a list of resources that utilize different methods to solve 
 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#problems">2. Specifications</a></td></tr> 
-<tr><td colspan="2"><a href="#problems">3. Books</a></td></tr> 
-<tr><td colspan="2"><a href="#problems">4. Datasets for simulations</a></td></tr> 
+<tr><td colspan="2"><a href="#specifications">2. Specifications</a></td></tr> 
+<tr><td colspan="2"><a href="#books">3. Books</a></td></tr> 
+<tr><td colspan="2"><a href="#datasets">4. Datasets for simulations</a></td></tr> 
 <tr><td colspan="2"><a href="#problems">5. Problems</a></td></tr> 
 
 <tr>
@@ -40,10 +40,10 @@ This repo maintains a list of resources that utilize different methods to solve 
 ## [Problems](#content)
 
 
-### Embedding algorithms
-### Online admission control for slicing
-### Dynamic slicing with uncertainties
+### [Embedding algorithms](#content)
+### [Online admission control for slicing](#content)
+### [Dynamic slicing with uncertainties](#content)
 
-### Multi-tenant slicing
-### RAN slicing
-### Machine learning for slicing
+### [Multi-tenant slicing](#content)
+### [RAN slicing](#content)
+### [Machine learning for slicing](#content)
