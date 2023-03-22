@@ -8,7 +8,7 @@ This repo maintains a list of resources that utilize different methods to solve 
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
+<tr><td colspan="2"><a href="#survey-papers">1. Surveys</a></td></tr> 
 <tr><td colspan="2"><a href="#specifications">2. Specifications</a></td></tr> 
 <tr><td colspan="2"><a href="#books">3. Books</a></td></tr> 
 <tr><td colspan="2"><a href="#datasets">4. Datasets</a></td></tr> 
