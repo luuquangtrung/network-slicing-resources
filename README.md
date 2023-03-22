@@ -3,6 +3,8 @@ Awesome Resources on Network Slicing Algorithms
 
 This repo maintains a list of resources that utilize different methods to solve network slicing related problems. Highly cited papers are marked with ✨
 
+(to be updated frequently...)
+
 ## [Content](#content)
 
 <table>
